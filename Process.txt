@@ -1,0 +1,10 @@
+Backend 
+npm init -y
+npm i mongoose express nodemon
+
+add src folder
+
+cd backend
+How to Run: npm run server
+json-server --watch db.json --port 4500
+

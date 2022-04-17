@@ -1,0 +1,35 @@
+.Register {
+    padding: 5rem;
+    border: 2px solid none;
+    text-align: center;
+}
+
+.Register form {
+    text-align: center;
+    display: inline-block;
+    margin-top: 15px;
+    margin: 0 auto;
+    border: 2px solid black;
+    box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+}
+
+.RegisterTable,
+tr,
+td {
+    border: none;
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+
+.RegisterTable input {
+    padding: 15px 100px 15px 10px;
+    font-size: 18px;
+    font-size-adjust: 100%;
+}
+
+.RegisterButton {
+    padding: 10px 25px;
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+
